@@ -34,3 +34,10 @@ header {
 .gray-scale {
   filter: grayscale(1);
 }
+.question-section {
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+.insurance-section {
+  margin-top: 100px;
+}
