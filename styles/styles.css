@@ -1,0 +1,36 @@
+body {
+  font-family: "Poppins", sans-serif;
+  box-sizing: border-box;
+}
+/* reusable style  */
+.text-color {
+  color: #e76f51;
+}
+/* header section  */
+header {
+  background-color: #264653;
+  color: white;
+}
+
+.header-top-text {
+  font-weight: 300;
+  font-size: 14px;
+  color: #e0e0e0;
+}
+.header-bottom-text {
+  font-weight: 300;
+  font-size: 16px;
+  color: #e0e0e0;
+}
+.header-button {
+  background-color: #e76f51;
+  color: white;
+  font-weight: 500;
+}
+.modal-bg-color {
+  background-image: linear-gradient(to top, #264b5a, #377d99);
+}
+/* main section  */
+.gray-scale {
+  filter: grayscale(1);
+}
